@@ -34,6 +34,8 @@ This is a Telegram bot, you can use it to calculate your price per kilometer cos
 >Extend the add function to register how many kilos of methane you refilled, to have stats about methane prices.
 
 >Efficiency Leaderboard - a way to gamify your efficiency, you win nothing but you could feel better about your carbon footprint. 
+
+>Maybe more functions if i have other ideas
 ---
 ## Legal disclaimer
 ```
