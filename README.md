@@ -1,5 +1,5 @@
 # 🤖 Methane-Fuel-Bot
-This is a telegram bot, you can use it to log how much was you price per kilometer cost on a methane car.
+This is a Telegram bot, you can use it to calculate your price per kilometer cost on a methane car by registering your methane refills at the gas station.
 
 ## How to use
 - 
@@ -29,7 +29,11 @@ This is a telegram bot, you can use it to log how much was you price per kilomet
 
 
 ## Future additions
->Efficiency Leaderboard - just a way to make it a game to reduce the carbon footprint of our cars by increasing efficiency in the way we drive. You win nothing, maybe you'll feel better about the environment.
+>Trip function - Same as your car's trip mode, it will let you register a trip and see stats about it.
+
+>Extend the add function to register how many kilos of methane you refilled, to have stats about methane prices.
+
+>Efficiency Leaderboard - a way to gamify your efficiency, you win nothing but you could feel better about your carbon footprint. 
 ---
 ## Legal disclaimer
 ```
